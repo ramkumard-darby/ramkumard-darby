@@ -3,7 +3,7 @@
 <h3 align="center">An Enthusiastic Java Backend developer from Chennai, India</h3>
 <img align="right" alt="coding" width="300"  src = "https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumar-26&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumard-darby" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkumard-darby&label=Profile%20views&color=0e75b6&style=flat" alt="ramkumard-darby" /> </p>
 
 
 - :smile:  I'm an enthusiastic Java Developer with a passion for developing scalable applications that will interact with the front-end of the application.
